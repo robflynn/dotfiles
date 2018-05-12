@@ -1,0 +1,23 @@
+{
+  "bootstrapped": true,
+  "installed_packages":
+  [
+    "Better CoffeeScript",
+    "BrightScript",
+    "CFML",
+    "CoffeeScriptHaml",
+    "Color Highlighter",
+    "Ecmascript Syntax",
+    "ES6-Toolkit",
+    "Handlebars",
+    "HTMLBeautify",
+    "Indent XML",
+    "Javascript Beautify",
+    "JavaScriptNext - ES6 Syntax",
+    "Package Control",
+    "PHP Codebeautifier",
+    "Sass",
+    "SublimeERB",
+    "Whitespace"
+  ]
+}
