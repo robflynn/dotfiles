@@ -1,0 +1,32 @@
+#taps
+tap "homebrew/bundle"
+tap "caskroom/cask"
+tap "gapple/services"
+tap "homebrew/core"
+
+#brews
+brew "gpg"
+brew "gnupg"
+brew "gnutls"
+
+brew "htop"
+brew "thefuck"
+brew "ffmpeg"
+brew "youtube-dl"
+brew "imagemagick"
+
+brew "node"
+brew "mysql"
+brew "wget"
+brew "go"
+brew "poppler"
+brew "mas"
+
+# Desktop software
+cask "google-chrome"
+cask "iterm2"
+cask "firefox"
+cask "dropbox"
+
+# Mac Store Apps
+mas "1Password", id: 443987910
