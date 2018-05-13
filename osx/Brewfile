@@ -29,6 +29,7 @@ cask "iterm2"
 cask "firefox"
 cask "dropbox"
 cask "skitch"
+cask "slack"
 
 # Mac Store Apps
 mas "1Password", id: 443987910
