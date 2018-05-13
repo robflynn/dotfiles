@@ -1,0 +1,23 @@
+{
+	"detect_indentation": false,
+	"ensure_single_trailing_newline": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"vendor/bundle",
+		"tmp/*"
+	],
+	"font_size": 13,
+	"ignore_whitespace_on_current_line": true,
+	"ignore_whitespace_only_lines": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remove_trailing_whitespace_on_save": true,
+	"tab_size": 4
+}

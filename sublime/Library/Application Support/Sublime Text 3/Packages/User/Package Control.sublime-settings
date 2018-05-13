@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"BrightScript",
+		"CFML",
+		"CoffeeScriptHaml",
+		"Color Highlighter",
+		"Ecmascript Syntax",
+		"ES6-Toolkit",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Indent XML",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"PHP Codebeautifier",
+		"Sass",
+		"SublimeERB",
+		"Whitespace"
+	]
+}
