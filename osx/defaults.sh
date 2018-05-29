@@ -46,3 +46,10 @@ defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 # Create projects folder
 mkdir ~/projects
 
+# I hate every window relaunching after a reboot
+
+# Make the file owned by root (otherwise the OS will just replace it)
+sudo chown root ~/Library/Preferences/ByHost/com.apple.loginwindow*
+
+# Remove all permissions, so it can't be read or written to
+sudo chmod 000 ~/Library/Preferences/ByHost/com.apple.loginwindow*
